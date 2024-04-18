@@ -14,6 +14,6 @@ function adicionar() {
 }
 
 function limpar() {
-    console.log
+    
 
 }
