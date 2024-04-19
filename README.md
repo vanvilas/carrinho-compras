@@ -18,13 +18,13 @@ Este projeto é um  site de carrinho de compras simples e intuitivo. Os usuário
    cd carrinho-compras
    ```
 3. Instale as dependências:
-   ```bash
+    ```bash
    npm install
    ```
-4. Inicie o servidor de desenvolvimento:
-  ```bash
-  npm start
-  ```
+5. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
 
 ## Licença
 Este projeto está licenciado sob a [Mit License](LICENSE).
